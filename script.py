@@ -1,1 +1,1 @@
-prin("Wassup Buddy!!, jofin johnson")
+print("Wassup Buddy!!, jofin johnson")
